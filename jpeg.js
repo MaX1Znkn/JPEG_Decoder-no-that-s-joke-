@@ -286,4 +286,5 @@ function makeHuffmanArray(huff1, otherarr, map) {
         map.set(huff1[i], otherarr[i]);
     }
     console.log(map);
+    var tret = 0;
 }
